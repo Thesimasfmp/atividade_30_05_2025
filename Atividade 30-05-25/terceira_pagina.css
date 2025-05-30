@@ -1,0 +1,25 @@
+body {
+    
+    background-image: url(arduino\ e\ eps\ 32\ com.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    min-height: 100vh;
+    font-family: Calibri, sans-serif;
+    padding: 20px;
+
+}
+
+nav {
+    display: block;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+}
+
+h1, p {
+    text-align: center;
+    background-color:rgba(255, 248, 220, 0.337);
+    color: black;
+    font-size: larger;
+}

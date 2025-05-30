@@ -1,0 +1,23 @@
+body {
+    background-color: darkgrey;
+    font-family:Calibri, sans-serif;
+}
+
+nav {
+    display: block;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+}
+
+iframe {
+    width: 500px;
+    height: 300px;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    
+}
