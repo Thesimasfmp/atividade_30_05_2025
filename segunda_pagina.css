@@ -1,0 +1,31 @@
+nav {
+    display: block;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+}
+
+h1,p {
+    background-color: rgba(134, 55, 55, 0.208);
+}
+
+body {
+    font-family: Calibri, sans-serif;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 20px;
+}
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); /* 3 vídeos por linha */
+    gap: 5px;
+    justify-items: center; /* centraliza cada vídeo na célula */
+    margin-top: 30px;
+}
+
+.video-grid iframe {
+    width: 400px;
+    height: 225px;
+    border: none;
+}
