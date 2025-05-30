@@ -1,12 +1,12 @@
 body {
     
-    background-image: url(arduino\ e\ eps\ 32\ com.png);
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: center;
-    min-height: 100vh;
-    font-family: Calibri, sans-serif;
-    padding: 20px;
+background-image: url('arduino e eps 32 com.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+min-height: 100vh;
+font-family: Calibri, sans-serif;
+padding: 20px;
 
 }
 
